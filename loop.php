@@ -9,7 +9,7 @@ while($i  <= 10){
     $i++;
 }
 
-
+include_once "functions.php";
 
 echo "
 <table style='border: 1px dotted black'>
